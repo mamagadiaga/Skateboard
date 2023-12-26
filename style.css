@@ -620,6 +620,7 @@ h1, h2, h3 {
 /* Cards */
 
 .cardstitle {
+  margin-bottom: 20px;
   font-size: clamp(1.4rem, 5vw, 1.7rem);
   font-weight: var(--fw-m);
 }
