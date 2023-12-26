@@ -496,16 +496,19 @@ h1, h2, h3 {
 .discover-areablog--first,
 .discover-areablog--second {
   background-repeat: no-repeat;
-  background-position: right center;
+  background-position:  center;
   background-size: cover;
 }
 
 .discover-areablog--first {
   background-color: #0DAABC;
+  background-image: url('https://assets.codepen.io/3364143/skate-removebg-preview.png');
+
 }
 
 .discover-areablog--second {
-  background-color: #e08d72;
+  background-image: url('https://images.unsplash.com/photo-1445251836269-d158eaa028a6?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1951&q=80');
+
 }
 
 @media screen and (min-width: 40em) {
