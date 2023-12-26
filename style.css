@@ -74,13 +74,14 @@ h1, h2, h3 {
 }
 
 /* Scrollbar */
+
 .custom-scrollbar {
   scrollbar-color: var(--couleur-gray-200) var(--couleur-gray-300); 
   scrollbar-width: thin;
 }
 
 .custom-scrollbar::-webkit-scrollbar {
-  width: 7.5px;
+  width: 5px;
 }
 
 .custom-scrollbar::-webkit-scrollbar-track {
