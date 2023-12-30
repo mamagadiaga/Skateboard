@@ -86,7 +86,7 @@ h1, h2, h3 {
   background: var(--couleur-gray-200);
 }
 
-.timebagde {
+.time-bagde {
   width: max-content;
   background-color: hsla(225, 14%, 16%, 0.5);
   color: var(--couleur-white);
